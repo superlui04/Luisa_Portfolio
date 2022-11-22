@@ -1,7 +1,7 @@
 # Luisa_Portfolio
 Example Data analytics project
 
-#Project list on Data analytics 
+# Project list on Data analytics 
 
 
 ## Project 1: Segmentation of user activities
