@@ -12,7 +12,7 @@
 ## Project 2: Carbon Emission study for Myanmar
 - Explored C02 consumption key contributors using data visualization to pinpoint solutions areas for decreasing carbon footprint
 - Worked in a team of 4 analyst where I was responsible for data cleaning and discovered land-use as major contributor of emission growth 
-- everaged Power BI to perform data cleaning and visualizations of results
+- Leveraged Power BI to perform data cleaning and visualizations of results
 
 
 ## Project 3: Sentiment analysis for Cauayan E-vehicle initiatives
