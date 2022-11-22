@@ -1,5 +1,4 @@
 # Luisa Portfolio
-Example Data analytics project
 
 # Project list on Data analytics 
 
