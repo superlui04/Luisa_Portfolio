@@ -20,3 +20,8 @@ Example Data analytics project
 - Performed related literature review using journals and published news clippings to gain insight on residents sentiments
 - Worked in a team of 3 analyst where I was responsible for data collection and discovered 3 barriers for e-vehicle implementations relating to cost, accesibility and sustainability
 - Leveraged various tools to produce findings and key insights
+- 
+## Project 4: Sales Forecast of an E-commerce store
+- Lead the Sales forecast and Inventory Dashboard Ideation 
+- Initiated data cleaning, product label standardization and performed simple average forecast using historical data 
+- Leveraged excel tools for data cleaning and forecasting model 
