@@ -27,6 +27,6 @@
 - Worked in a team of 3 analyst where I was responsible for data collection and discovered 3 barriers for e-vehicle implementations relating to cost, accesibility and sustainability
 
 ## Project 4: Sales forecast of an e-commerce store
-- Lead the sales forecast and inventory dashboard Ideation 
+- Led the sales forecast and inventory dashboard ideation 
 - Initiated data cleaning, product label standardization and performed simple average forecast using historical data 
 - Leveraged excel tools for data cleaning and forecasting model 
