@@ -17,16 +17,19 @@
 
 
 ## Project 2: Carbon Emission study for Myanmar
-- Explored C02 consumption key contributors using data visualization to pinpoint solutions areas for decreasing carbon footprint
-- Worked in a team of 4 analyst where I was responsible for data cleaning and discovered land-use as major contributor of emission growth 
+- Explored C02 consumption key contributors using data visualization to pinpoint solutions areas for decreasing the carbon footprint
+- Worked in a team of 4 analysts where I was responsible for data cleaning and discovered land use as major contributor to emission growth
 - Leveraged Power BI to perform data cleaning and visualizations of results
+
 
 
 ## Project 3: Sentiment analysis for Cauayan E-vehicle initiatives
 - Performed related literature review using journals and published news clippings to gain insight on residents sentiments
-- Worked in a team of 3 analyst where I was responsible for data collection and discovered 3 barriers for e-vehicle implementations relating to cost, accesibility and sustainability
+- Worked in a team of 3 analysts where I was responsible for data collection and discovered 3 barriers for e-vehicle implementations relating to cost, accessibility, and sustainability
+
 
 ## Project 4: Sales forecast of an e-commerce store
-- Led the sales forecast and inventory dashboard ideation 
-- Initiated data cleaning, product label standardization and performed simple average forecast using historical data 
-- Leveraged excel tools for data cleaning and forecasting model 
+-	Led the sales forecast and inventory dashboard ideation
+-	Initiated data cleaning, and product label standardization and performed simple average forecasts using historical data
+-	Leveraged excel tools for data cleaning and forecasting model
+
