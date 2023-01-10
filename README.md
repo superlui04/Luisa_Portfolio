@@ -31,7 +31,7 @@
 
 
 ###SGD PROJECTS
-## Project 1: Carbon Emission study for Myanmar
+## Project 1: [Carbon Emission study for Myanmar](https://drive.google.com/file/d/1_5V6qXxjDyhoOAWmRYHzzmC_ygwPb2iQ/view?usp=sharing)
 - Explored C02 consumption key contributors using data visualization to pinpoint solutions areas for decreasing the carbon footprint
 - Worked in a team of 4 analysts where I was responsible for data cleaning and discovered land use as major contributor to emission growth
 - Leveraged Power BI to perform data cleaning and visualizations of results
