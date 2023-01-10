@@ -24,14 +24,14 @@
 
 
 
-## Project 3: Database management for a dummy bookstore
+## Project 3: [Database management for a dummy bookstore](https://github.com/superlui04/dbms)
 -	Database creation project including setting up primary keys and data modelling
 -	Led the database creation and sql scripting 
 -	Harnessed Mysql for dataset import to database
 
 
 ### SGD PROJECTS
-## Project 1: [Carbon Emission study for Myanmar](https://drive.google.com/file/d/1_5V6qXxjDyhoOAWmRYHzzmC_ygwPb2iQ/view?usp=sharing)
+## Project 1: [Carbon Emission study for Myanmar] (https://drive.google.com/file/d/1_5V6qXxjDyhoOAWmRYHzzmC_ygwPb2iQ/view?usp=sharing)
 - Explored C02 consumption key contributors using data visualization to pinpoint solutions areas for decreasing the carbon footprint
 - Worked in a team of 4 analysts where I was responsible for data cleaning and discovered land use as major contributor to emission growth
 - Leveraged Power BI to perform data cleaning and visualizations of results
@@ -44,7 +44,7 @@
 - Leveraged Microsoft office tools in the completion of the report
 
 
-## [Project 3: Time Series analysis for the number of schools and enrollees in the Philippines](https://github.com/superlui04/dbms)
+## [Project 3: Time Series analysis for the number of schools and enrollees in the Philippines](https://drive.google.com/file/d/1X-6Mwco9bryHC8ODP9QibaCiB_Zk7j1m/view?usp=sharing)
 - Performed exploratory data analysis and drilldown analysis for different data attributes
 - Lead a team of 9 analyst where I was responsible for project management, data wrangling, visualization and creation of summary findings 
 - Used Ms SQL Server and Power BI in the dataset import and visualizations of analysis
