@@ -44,7 +44,7 @@
 - Leveraged Microsoft office tools in the completion of the report
 
 
-## [Project 3: Time Series analysis for the number of schools and enrollees in the Philippines] (https://github.com/superlui04/dbms)
+## [Project 3: Time Series analysis for the number of schools and enrollees in the Philippines](https://github.com/superlui04/dbms)
 - Performed exploratory data analysis and drilldown analysis for different data attributes
 - Lead a team of 9 analyst where I was responsible for project management, data wrangling, visualization and creation of summary findings 
 - Used Ms SQL Server and Power BI in the dataset import and visualizations of analysis
