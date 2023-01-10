@@ -9,7 +9,7 @@
 
 # Project list on Data analytics 
 
-###Business
+### Business
 ## Project 1: Segmentation of user activities
 - Reviewed fintech startup’s users using segmentation analysis to recommend strategies for increasing user retention
 - Collaborated with 3 other data analysts and led the exploratory data analysis and found 13% of user interactions derived from 1 app feature
@@ -30,7 +30,7 @@
 -	Harnessed Mysql for dataset import to database
 
 
-###SGD PROJECTS
+### SGD PROJECTS
 ## Project 1: [Carbon Emission study for Myanmar](https://drive.google.com/file/d/1_5V6qXxjDyhoOAWmRYHzzmC_ygwPb2iQ/view?usp=sharing)
 - Explored C02 consumption key contributors using data visualization to pinpoint solutions areas for decreasing the carbon footprint
 - Worked in a team of 4 analysts where I was responsible for data cleaning and discovered land use as major contributor to emission growth
