@@ -33,3 +33,13 @@
 -	Initiated data cleaning, and product label standardization and performed simple average forecasts using historical data
 -	Leveraged excel tools for data cleaning and forecasting model
 
+
+
+## Project 5: Database management for a dummy bookstore
+-	Database creation project including setting up primary keys and data modelling
+-	Led the database creation and sql scripting 
+-	Harnessed Mysql for dataset import to database
+
+
+
+
